@@ -23,13 +23,12 @@
   <br />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.JS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/>
-  <br />
+  <!-- <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=Kubernetes&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=Kubernetes&logoColor=white"/> -->
 
 <br />
 <br />
