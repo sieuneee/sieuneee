@@ -35,7 +35,7 @@
   <h3>📩 Contact 📩</h3>
   <a href="mailto:sieunee.k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@sieuneee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/seee.ni" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sieuney_" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <br />
 <br />
