@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc5c0,100:ff6f61&height=250&section=header&text=SIEUNEEE_CODE&fontAlign=60&fontAlignY=40&descAlign=87&descAlignY=55&desc=Sieun%20Kim&fontSize=70&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc5c0,100:ff6f61&height=200&section=header&text=SIEUNEEE_CODE&fontAlign=60&fontAlignY=35&descAlign=87&descAlignY=55&desc=Sieun%20Kim&fontSize=70&animation=fadeIn&fontColor=fff)
 
 
 <div align="center">
